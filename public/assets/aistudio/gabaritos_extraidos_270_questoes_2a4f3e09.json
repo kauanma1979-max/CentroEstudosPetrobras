@@ -1,0 +1,2759 @@
+{
+  "schema_name": "operacao_dutos_answer_keys",
+  "schema_version": "1.0.0",
+  "dataset_id": "OPERACAO_DUTOS_QUESTOES_2018_2026_V1",
+  "question_count": 270,
+  "exams": [
+    {
+      "exam_id": "TRANSPETRO_2018_OPERACAO",
+      "exam_name": "Transpetro 2018 — Técnico(a) de Operação Júnior",
+      "bank": "CESGRANRIO",
+      "answer_key_source_pdf": "2018 TRANSPETRO - cesgranrio-2018-transpetro-tecnico-de-operacao-junior-gabarito.pdf",
+      "answer_key_source_page": 3,
+      "answer_key_status": "official_adjusted",
+      "answers": [
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q021",
+          "question_number": 21,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "Rutherford-Bohr",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q022",
+          "question_number": 22,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": ", para a direita\n\nL\n11Q",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q023",
+          "question_number": 23,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "Bomba alternativa de diafragma",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q024",
+          "question_number": 24,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "Y\nZˆ\n\nB k",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q025",
+          "question_number": 25,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "\n2 L\n\nI ˆ\n\n(B\n)k",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q026",
+          "question_number": 26,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "equipamento encarregado de produzir uma ação a\npartir de um comando ou sinal que altera o valor da\nvariável de processo.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q027",
+          "question_number": 27,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "histerese",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q028",
+          "question_number": 28,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "válvula que permite o fluxo em um só sentido",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q029",
+          "question_number": 29,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "III",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q030",
+          "question_number": 30,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "Chumbo",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q031",
+          "question_number": 31,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "termômetro bimetálico",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q032",
+          "question_number": 32,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "120 bar",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q033",
+          "question_number": 33,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "o ar",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q034",
+          "question_number": 34,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "0 - 5.801,2 psi",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q035",
+          "question_number": 35,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "H2SO3, H2S2O3, H2S e H2SO4",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q036",
+          "question_number": 36,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "ns2 np1 onde n = 6",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q037",
+          "question_number": 37,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "a pressão que o He exerce é igual à pressão exercida\npelo CO2.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q038",
+          "question_number": 38,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "duas aminas primárias e duas secundárias",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q039",
+          "question_number": 39,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "tem a maior parte da massa numa pequena região\ncentral de carga positiva.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q040",
+          "question_number": 40,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "99\nR × T = 24,4 atm L mol1",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q041",
+          "question_number": 41,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "ar puro e latão",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q042",
+          "question_number": 42,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "0,12\nM (NaCℓ) = 58,5 g mol1",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q043",
+          "question_number": 43,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "ramificada e homogênea",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q044",
+          "question_number": 44,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "cetona",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q045",
+          "question_number": 45,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "são covalentes com os hidrogênios sendo os átomos\nde menor eletronegatividade na molécula.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q046",
+          "question_number": 46,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "o ferro sofre redução.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q047",
+          "question_number": 47,
+          "answer_code": null,
+          "correct_answer": "ANULADA",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": null,
+          "status": "annulled"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q048",
+          "question_number": 48,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "axial",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q049",
+          "question_number": 49,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "0,75",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q050",
+          "question_number": 50,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "o comprimento roscado dos furos é maior do que o\ncomprimento de rosca dos parafusos.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q051",
+          "question_number": 51,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "0,5",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q052",
+          "question_number": 52,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "10\ng = 10 m/s2",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q053",
+          "question_number": 53,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "Pa, m1 kg s2",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q054",
+          "question_number": 54,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "P/8 e P/4",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q055",
+          "question_number": 55,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "0,837",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q056",
+          "question_number": 56,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "sob risco de falha, pois a graxa passou ao estado lí-\nquido e perdeu viscosidade, resultando em lubrifica-\nção deficiente.",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q057",
+          "question_number": 57,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "fluido incompressível e escoamento permanente",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q058",
+          "question_number": 58,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "25,0",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q059",
+          "question_number": 59,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "5,2 x 108\nCalor especíﬁ co do vapor d’água:\n2,0 x 103 J kg1 K1",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2018_OPERACAO_Q060",
+          "question_number": 60,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "H < 0, S > 0 e G < 0",
+          "correct_judgment": null,
+          "status": "official_adjusted"
+        }
+      ]
+    },
+    {
+      "exam_id": "PETROBRAS_2023_1_OPERACAO",
+      "exam_name": "Petrobras 2023.1 — Ênfase 7: Operação",
+      "bank": "CEBRASPE",
+      "answer_key_source_pdf": "2023 - gabarito(1).pdf",
+      "answer_key_source_page": 8,
+      "answer_key_status": "official_preliminary",
+      "answers": [
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q041",
+          "question_number": 41,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q042",
+          "question_number": 42,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q043",
+          "question_number": 43,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q044",
+          "question_number": 44,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q045",
+          "question_number": 45,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q046",
+          "question_number": 46,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q047",
+          "question_number": 47,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q048",
+          "question_number": 48,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q049",
+          "question_number": 49,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q050",
+          "question_number": 50,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q051",
+          "question_number": 51,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q052",
+          "question_number": 52,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q053",
+          "question_number": 53,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q054",
+          "question_number": 54,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q055",
+          "question_number": 55,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q056",
+          "question_number": 56,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q057",
+          "question_number": 57,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q058",
+          "question_number": 58,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q059",
+          "question_number": 59,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q060",
+          "question_number": 60,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q061",
+          "question_number": 61,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q062",
+          "question_number": 62,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q063",
+          "question_number": 63,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q064",
+          "question_number": 64,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q065",
+          "question_number": 65,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q066",
+          "question_number": 66,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q067",
+          "question_number": 67,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q068",
+          "question_number": 68,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q069",
+          "question_number": 69,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q070",
+          "question_number": 70,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q071",
+          "question_number": 71,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q072",
+          "question_number": 72,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q073",
+          "question_number": 73,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q074",
+          "question_number": 74,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q075",
+          "question_number": 75,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q076",
+          "question_number": 76,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q077",
+          "question_number": 77,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q078",
+          "question_number": 78,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q079",
+          "question_number": 79,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q080",
+          "question_number": 80,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q081",
+          "question_number": 81,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q082",
+          "question_number": 82,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q083",
+          "question_number": 83,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q084",
+          "question_number": 84,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q085",
+          "question_number": 85,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q086",
+          "question_number": 86,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q087",
+          "question_number": 87,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q088",
+          "question_number": 88,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q089",
+          "question_number": 89,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q090",
+          "question_number": 90,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q091",
+          "question_number": 91,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q092",
+          "question_number": 92,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q093",
+          "question_number": 93,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q094",
+          "question_number": 94,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q095",
+          "question_number": 95,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q096",
+          "question_number": 96,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q097",
+          "question_number": 97,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q098",
+          "question_number": 98,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q099",
+          "question_number": 99,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "PETROBRAS_2023_1_OPERACAO_Q100",
+          "question_number": 100,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        }
+      ]
+    },
+    {
+      "exam_id": "PETROBRAS_2023_2_OPERACAO",
+      "exam_name": "Petrobras 2023.2 — Ênfase 8: Operação",
+      "bank": "CEBRASPE",
+      "answer_key_source_pdf": "2024 - gabarito_oficial(1).pdf",
+      "answer_key_source_page": 9,
+      "answer_key_status": "official_final",
+      "answers": [
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q041",
+          "question_number": 41,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q042",
+          "question_number": 42,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q043",
+          "question_number": 43,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q044",
+          "question_number": 44,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q045",
+          "question_number": 45,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q046",
+          "question_number": 46,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q047",
+          "question_number": 47,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q048",
+          "question_number": 48,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q049",
+          "question_number": 49,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q050",
+          "question_number": 50,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q051",
+          "question_number": 51,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q052",
+          "question_number": 52,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q053",
+          "question_number": 53,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q054",
+          "question_number": 54,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q055",
+          "question_number": 55,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q056",
+          "question_number": 56,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q057",
+          "question_number": 57,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q058",
+          "question_number": 58,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q059",
+          "question_number": 59,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q060",
+          "question_number": 60,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q061",
+          "question_number": 61,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q062",
+          "question_number": 62,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q063",
+          "question_number": 63,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q064",
+          "question_number": 64,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q065",
+          "question_number": 65,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q066",
+          "question_number": 66,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q067",
+          "question_number": 67,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q068",
+          "question_number": 68,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q069",
+          "question_number": 69,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q070",
+          "question_number": 70,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q071",
+          "question_number": 71,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q072",
+          "question_number": 72,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q073",
+          "question_number": 73,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q074",
+          "question_number": 74,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q075",
+          "question_number": 75,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q076",
+          "question_number": 76,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q077",
+          "question_number": 77,
+          "answer_code": null,
+          "correct_answer": "ANULADA",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": null,
+          "status": "annulled"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q078",
+          "question_number": 78,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q079",
+          "question_number": 79,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q080",
+          "question_number": 80,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q081",
+          "question_number": 81,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q082",
+          "question_number": 82,
+          "answer_code": null,
+          "correct_answer": "ANULADA",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": null,
+          "status": "annulled"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q083",
+          "question_number": 83,
+          "answer_code": null,
+          "correct_answer": "ANULADA",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": null,
+          "status": "annulled"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q084",
+          "question_number": 84,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q085",
+          "question_number": 85,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q086",
+          "question_number": 86,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q087",
+          "question_number": 87,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q088",
+          "question_number": 88,
+          "answer_code": null,
+          "correct_answer": "ANULADA",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": null,
+          "status": "annulled"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q089",
+          "question_number": 89,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q090",
+          "question_number": 90,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q091",
+          "question_number": 91,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q092",
+          "question_number": 92,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q093",
+          "question_number": 93,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q094",
+          "question_number": 94,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q095",
+          "question_number": 95,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q096",
+          "question_number": 96,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q097",
+          "question_number": 97,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q098",
+          "question_number": 98,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q099",
+          "question_number": 99,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        },
+        {
+          "question_id": "PETROBRAS_2023_2_OPERACAO_Q100",
+          "question_number": 100,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_final"
+        }
+      ]
+    },
+    {
+      "exam_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS",
+      "exam_name": "Transpetro 2023.1 — Ênfase 2: Dutos e Terminais",
+      "bank": "CESGRANRIO",
+      "answer_key_source_pdf": "cesgranrio-2023-transpetro-tecnico-de-dutos-e-terminais-gabarito(1).pdf",
+      "answer_key_source_page": 2,
+      "answer_key_status": "official_final_adjusted",
+      "answers": [
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q021",
+          "question_number": 21,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "1s2 2s2 2p6 3s2\n3o período; grupo 2",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q022",
+          "question_number": 22,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "4",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q023",
+          "question_number": 23,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "425,7",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q024",
+          "question_number": 24,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "ácido mais forte tem maior tendência à transferência\nde um íon H+ do que um ácido mais fraco.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q025",
+          "question_number": 25,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "F\nF\nn\nH\nH\nC\nC\nH",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q026",
+          "question_number": 26,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "ejeção de elétrons de uma superfície metálica quando\nela é exposta à luz.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q027",
+          "question_number": 27,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "CH4, CH3Cl, HONO2",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q028",
+          "question_number": 28,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "4",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q029",
+          "question_number": 29,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "B e C",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q030",
+          "question_number": 30,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "independe da massa da caixa.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q031",
+          "question_number": 31,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "700",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q032",
+          "question_number": 32,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "24 (compressão), 24 (compressão) e 20 (tração)",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q033",
+          "question_number": 33,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "2,0",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q034",
+          "question_number": 34,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "rotâmetro",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q035",
+          "question_number": 35,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "sen\nF = B\nθ\nF = B sen",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q036",
+          "question_number": 36,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "4",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q037",
+          "question_number": 37,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "pneumáticos",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q038",
+          "question_number": 38,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "repetibilidade",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q039",
+          "question_number": 39,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "vazão",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q040",
+          "question_number": 40,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "12",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q041",
+          "question_number": 41,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "82%",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q042",
+          "question_number": 42,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "Fe(s) sofre oxidação.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q043",
+          "question_number": 43,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "+264\nM = 106",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q044",
+          "question_number": 44,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "0,38",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q045",
+          "question_number": 45,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "16",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q046",
+          "question_number": 46,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "16,8",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q047",
+          "question_number": 47,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "0,54",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q048",
+          "question_number": 48,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "aumento da concentração de H+ deslocaria a reação para a formação de +H3N-CH2-CH2-CH2-CH2-NH3\n+.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q049",
+          "question_number": 49,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "3,33",
+          "correct_judgment": null,
+          "status": "official_final_adjusted",
+          "previous_value": "C"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q050",
+          "question_number": 50,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "2",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q051",
+          "question_number": 51,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "85",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q052",
+          "question_number": 52,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "27",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q053",
+          "question_number": 53,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "350 J, e o calor é absorvido pelo gás.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q054",
+          "question_number": 54,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "defletido no plano horizontal, perpendicularmente à\ndireção de sua velocidade.",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q055",
+          "question_number": 55,
+          "answer_code": "B",
+          "correct_answer": "B",
+          "correct_option_label": "B",
+          "correct_option_text": "45, sentido negativo de x",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q056",
+          "question_number": 56,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "PB = PA = PC",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q057",
+          "question_number": 57,
+          "answer_code": "C",
+          "correct_answer": "C",
+          "correct_option_label": "C",
+          "correct_option_text": "3,00",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q058",
+          "question_number": 58,
+          "answer_code": "A",
+          "correct_answer": "A",
+          "correct_option_label": "A",
+          "correct_option_text": "Coriolis",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q059",
+          "question_number": 59,
+          "answer_code": "D",
+          "correct_answer": "D",
+          "correct_option_label": "D",
+          "correct_option_text": "0,04",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        },
+        {
+          "question_id": "TRANSPETRO_2023_1_DUTOS_TERMINAIS_Q060",
+          "question_number": 60,
+          "answer_code": "E",
+          "correct_answer": "E",
+          "correct_option_label": "E",
+          "correct_option_text": "de palhetas deslizantes\nTERRA",
+          "correct_judgment": null,
+          "status": "official_final_adjusted"
+        }
+      ]
+    },
+    {
+      "exam_id": "ANSA_2026_OPERACAO",
+      "exam_name": "ANSA 2026 — Ênfase 22: Operação",
+      "bank": "CEBRASPE",
+      "answer_key_source_pdf": "2026 - ANSA - OPERAÇÃO GABARITO(1).pdf",
+      "answer_key_source_page": 2,
+      "answer_key_status": "official_preliminary",
+      "answers": [
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q031",
+          "question_number": 31,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q032",
+          "question_number": 32,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q033",
+          "question_number": 33,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q034",
+          "question_number": 34,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q035",
+          "question_number": 35,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q036",
+          "question_number": 36,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q037",
+          "question_number": 37,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q038",
+          "question_number": 38,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q039",
+          "question_number": 39,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q040",
+          "question_number": 40,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q041",
+          "question_number": 41,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q042",
+          "question_number": 42,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q043",
+          "question_number": 43,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q044",
+          "question_number": 44,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q045",
+          "question_number": 45,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q046",
+          "question_number": 46,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q047",
+          "question_number": 47,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q048",
+          "question_number": 48,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q049",
+          "question_number": 49,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q050",
+          "question_number": 50,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q051",
+          "question_number": 51,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q052",
+          "question_number": 52,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q053",
+          "question_number": 53,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q054",
+          "question_number": 54,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q055",
+          "question_number": 55,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q056",
+          "question_number": 56,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q057",
+          "question_number": 57,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q058",
+          "question_number": 58,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q059",
+          "question_number": 59,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q060",
+          "question_number": 60,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q061",
+          "question_number": 61,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q062",
+          "question_number": 62,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q063",
+          "question_number": 63,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q064",
+          "question_number": 64,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q065",
+          "question_number": 65,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q066",
+          "question_number": 66,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q067",
+          "question_number": 67,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q068",
+          "question_number": 68,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q069",
+          "question_number": 69,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q070",
+          "question_number": 70,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q071",
+          "question_number": 71,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q072",
+          "question_number": 72,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q073",
+          "question_number": 73,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q074",
+          "question_number": 74,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q075",
+          "question_number": 75,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q076",
+          "question_number": 76,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q077",
+          "question_number": 77,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q078",
+          "question_number": 78,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q079",
+          "question_number": 79,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q080",
+          "question_number": 80,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q081",
+          "question_number": 81,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q082",
+          "question_number": 82,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q083",
+          "question_number": 83,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q084",
+          "question_number": 84,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q085",
+          "question_number": 85,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q086",
+          "question_number": 86,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q087",
+          "question_number": 87,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q088",
+          "question_number": 88,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q089",
+          "question_number": 89,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q090",
+          "question_number": 90,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q091",
+          "question_number": 91,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q092",
+          "question_number": 92,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q093",
+          "question_number": 93,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q094",
+          "question_number": 94,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q095",
+          "question_number": 95,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q096",
+          "question_number": 96,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q097",
+          "question_number": 97,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q098",
+          "question_number": 98,
+          "answer_code": "C",
+          "correct_answer": "CERTO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "CERTO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q099",
+          "question_number": 99,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        },
+        {
+          "question_id": "ANSA_2026_OPERACAO_Q100",
+          "question_number": 100,
+          "answer_code": "E",
+          "correct_answer": "ERRADO",
+          "correct_option_label": null,
+          "correct_option_text": null,
+          "correct_judgment": "ERRADO",
+          "status": "official_preliminary"
+        }
+      ]
+    }
+  ]
+}
